@@ -22,7 +22,9 @@
                                                 Nama &nbsp; &nbsp; : &nbsp; Ulvia Yulianti <br>
                                                 NIM &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; 1831710157<br>
                                                 Tanggal &nbsp;: &nbsp; 23 Oktober 2021 <br>
-                                                Prodi &nbsp;: &nbsp; &nbsp;  D3 Manajemen Informatika
+                                                Prodi &nbsp;: &nbsp; &nbsp;  D3 Manajemen Informatika 
+                                                Jurusan &nbsp;: &nbsp; &nbsp; Teknologi Informasi 
+                                                Kampus &nbsp;: &nbsp; &nbsp; Politeknik Negeri Malang 
                                             </p>
                                         </div>
                                     </div>
